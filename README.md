@@ -1,3 +1,4 @@
+![logo](https://github.com/rajeswaribadiger2004/rajeswaribadiger2004/blob/main/rajeswaribanner.png)
 <h1 align="center">Hi 👋, I'm Rajeswari badiger</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
