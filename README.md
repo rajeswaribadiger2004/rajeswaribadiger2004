@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rajeswari badiger</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align=''right" alt="coding" width="400"src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeswaribadiger2004&label=Profile%20views&color=0e75b6&style=flat" alt="rajeswaribadiger2004" /> </p>
 
 - 🌱 I’m currently learning **html,css,javascript,DSA**
