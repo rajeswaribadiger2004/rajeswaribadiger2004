@@ -2,6 +2,7 @@
 rajeswaribadiger2004/rajeswaribadiger2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![logo](https://github.com/rajeswaribadiger2004/rajeswaribadiger2004/blob/main/rajeswaribanner.png)
 <h1 align="center">Hi 👋, I'm Rajeswari Badiger</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align=''right" alt="coding" width="400"src="https://as1.ftcdn.net/v2/jpg/05/93/82/76/1000_F_593827677_uXCPMbS2ztblOlGRIqSklgjElMKFbNuD.jpg">
